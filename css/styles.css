@@ -15,9 +15,9 @@ font-family: "oxigen" , sans-serif;
 
 }
 #logo-img{
-
-    background-color: url(´../restaurante-chino-gusto.jpg) no-repeat;
-    width: 150px;;
-    height: 150px;
+    
+    background:url('../imagen/chino.jpg') no-repeat;
+    width: 210px;   
+    height: 210px;
     margin: 10px 15px 10px 0;
 }
