@@ -15,8 +15,9 @@ font-family: "oxigen" , sans-serif;
 
 }
 #logo-img{
-    
+    background-color: black;
     background:url('../imagen/df.png') no-repeat;
+    background-size: cover;
     width: 210px;   
     height: 210px;
     margin: 10px 15px 10px 0;
